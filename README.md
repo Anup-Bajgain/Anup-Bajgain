@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Anup-Bajgain
-- 👀 I’m interested in programming,software development and anything new 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming, software development and anything new 
+- 🌱 I’m currently learning python and web development
 - 📫 How to reach me -via mail : anupbajgain999@gmail.com
 
 <!---
